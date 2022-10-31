@@ -1,4 +1,4 @@
-# PB-Springboot-Avalia-oSprint2
+# PB-Springboot-Sprint2
 Programa de Bolsa Springboot - Avaliação Sprint 2
 
 1 - Crie uma entidade produto, com os seguintes atributos:
